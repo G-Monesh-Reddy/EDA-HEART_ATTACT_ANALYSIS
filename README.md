@@ -37,4 +37,4 @@ Visualizations are used to present findings in an interpretable manner for healt
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/heart-attack-analysis.git
+  [ git clone https://github.com/yourusername/heart-attack-analysis.git](https://github.com/G-Monesh-Reddy/EDA-HEART_ATTACT_ANALYSIS.git)
